@@ -1,0 +1,177 @@
+/* Your styles here */
+
+body{
+    margin:0;
+    font-family: Arial, Helvetica, Sans-Serif;
+    background-color: rgb(233, 237, 238);
+    
+}
+header{
+    background-color:rgb(34, 47, 63);
+}
+
+header div img{
+    width: 10%;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+header nav{
+    background-color: rgb(54, 71, 89);
+    display: block;
+    height: 2.5rem;
+}
+
+header nav ul li{
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    margin-left: 2.5rem;
+    padding-top: 0.5rem;
+}
+
+main article{
+    width: 95%;
+    margin-inline: auto;
+}
+.orange{
+    text-align: center;
+    background-color: #f56600;
+    color: #eaeded;
+    font-size: 2rem;
+    height: 3rem;
+    padding-top: 1rem;
+    margin-top: 3rem;
+}
+
+.green{
+    text-align: center;
+    background-image: url(../images/bg-image.png);
+    background-size: contain;
+    margin-top: 3rem;
+}
+
+.green h1{
+    color: #eaeded;
+    font-size: 4rem;
+    font-weight: bold;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+.green p{
+    color: #eaeded;
+    font-size: 3rem;
+    font-weight: bold;
+    padding-bottom: 4rem;
+}
+
+.white{
+    background-color: white;
+    margin-top: 3rem;
+}
+.contenitore{
+    padding-top: -30px;
+    padding-bottom:40px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.img{
+    display: inline-block;
+    padding-right: 40px;
+}
+
+.img img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 7%;
+    box-shadow: 15px 10px 10px rgb(223, 227, 229);
+}
+
+.img1{
+    display: inline-block;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.img1 img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 7%;
+    box-shadow: 15px 10px 10px rgb(223, 227, 229);
+}
+
+.white div{
+    padding-top: 15px;
+}
+div span{
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+
+.shop-now{
+    color: rgb(32, 114, 125);
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.image1, .image2{
+    text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+.image1 img, .image2 img{
+    width: 100%;
+    border-top: 1px solid gray;
+}
+
+.image1 p, .image2 p{
+    margin-top: 1rem;
+    font-size: 2.5rem;
+    color: black; 
+}
+.image1 p span, .image2 p span{
+    margin-top: 1rem;
+    font-size: 2rem;
+    color: rgb(32, 114, 125);
+    font-weight: bold;
+}
+
+.lighter-footer{
+    background-color: rgb(54, 71, 89);
+    height: 4rem;
+    padding-top: 1.5rem;
+}
+
+.lighter-footer a{
+    color: white;
+    font-size: 2rem;
+}
+
+footer div{
+    text-align: center;
+    background-color:rgb(34, 47, 63);
+    height: 25rem;
+    
+}
+
+footer div img{
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    padding-top: 9rem;
+}
+
+
+
+
+
+
+
+
+
+
+
